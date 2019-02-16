@@ -23,7 +23,7 @@ export const QuizData ={
             answer1:'Aptitude',
             answer2:'Employee',
             answer3:'Entrepreneurs',
-            answer4:'Entrepreneurship',
+            answer4:'Investor',
             correctAnswer:'answer3',
             key: '1C'
         },
